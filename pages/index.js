@@ -35,11 +35,11 @@ export default function Home() {
         -- Maximizing quality of life through ecological care, self development and <b>regenerative technologies</b>. A possible solution to a core problem in the human experience: <i>loneliness and belonging</i>.
         </p>
         <body>
-        <div className="parallax-wrapper">
+        {/* <div className="parallax-wrapper">
             <div className="content">
                 <p> <h1>what we stand for</h1></p>
-                <p>
-                What does it mean to fit together? Maybe, to have everything in its place. A natural order. An order in which there is no strain of mind, of energy, thought. An order which comes naturally, from a state of freedom. 
+                <p> */}
+                {/* What does it mean to fit together? Maybe, to have everything in its place. A natural order. An order in which there is no strain of mind, of energy, thought. An order which comes naturally, from a state of freedom. 
 
 Freedom, however, is not simply doing what one wants when one wants. When free to act impulsively or from a state of ones primal instincts, one realizes that some of the choices we make dont always come from a place of individual true choice, or are not in our best common interest.Our primitive and selfish behavior as a species continue to confound a lack of meaning and systemic inequalities with our most crucial and pressing crisis: climate change.- We endlessly seek material/superficial answers to existential questions, perpetuating deception, hypocrisy, and disappointment.. Freedom therefore comes with great responsibility. 
 
@@ -60,15 +60,15 @@ It is now clear:
 -	society must redefine its values to for a sustainable maximization of living quality
 -	remote work has become a norm
 -	mankinds interaction with the natural world must drastically change and include indigenous wisdom<br></br>
--  humans need to exercise their fulfillment in a new way of living that will consist of mostly leisure without following into destructive vices
-                </p>
-            </div>
-        </div>
-        <div className="regular-wrapper">
+-  humans need to exercise their fulfillment in a new way of living that will consist of mostly leisure without following into destructive vices */}
+                {/* </p>
+            </div> */}
+        {/* </div> */}
+        {/* <div className="regular-wrapper">
             <div className="content">
                 <p><h1> The Blueprint </h1></p>
             </div>
-        </div>
+        </div> */}
         </body>
 
       </main>
