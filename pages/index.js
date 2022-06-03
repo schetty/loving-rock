@@ -1,13 +1,14 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import { useEffect, useState } from 'react'
 
 export default function Home() {
   return (
     <html>
     <div className={styles.container}>
       <Head>
-      <span><title className={styles.punchline}>a regenerative agtech incubator</title></span>
+    <title className={styles.punchline}>a regenerative agtech incubator</title>
        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
@@ -31,9 +32,9 @@ export default function Home() {
         A modern infrastructure model for decentralized community living and food security innovation incubator.
         </div>
 
-        <p className={styles.subtitle}>
+        <div className={styles.subtitle}>
         -- Maximizing quality of life through ecological care, self development and <b>regenerative technologies</b>. A possible solution to a core problem in the human experience: <i>loneliness and belonging</i>.
-        </p>
+        </div>
         <body>
         {/* <div className="parallax-wrapper">
             <div className="content">
