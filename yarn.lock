@@ -1310,23 +1310,23 @@
   "resolved" "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
   "version" "1.2.3"
 
-"react-dom@^17.0.2 || ^18.0.0-0", "react-dom@18.1.0":
-  "integrity" "sha512-fU1Txz7Budmvamp7bshe4Zi32d0ll7ect+ccxNu9FlObT605GOEB8BfO4tmRJ39R5Zj831VCpvQ05QPBW5yb+w=="
-  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.1.0.tgz"
-  "version" "18.1.0"
+"react-dom@^17.0.2 || ^18.0.0-0", "react-dom@18.2.0-next-e531a4a62-20220505":
+  "integrity" "sha512-PgjEOWxZSMwLIRccBTYqCZ2NR75H+huKKkZIi4mAvNqAmoilIbPSXuGe2H5E2mN9lhDZWWsnWVHTQVV2wqE0Zw=="
+  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0-next-e531a4a62-20220505.tgz"
+  "version" "18.2.0-next-e531a4a62-20220505"
   dependencies:
     "loose-envify" "^1.1.0"
-    "scheduler" "^0.22.0"
+    "scheduler" "0.23.0-next-e531a4a62-20220505"
 
 "react-is@^16.13.1":
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react@^17.0.2 || ^18.0.0-0", "react@^18.1.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@18.1.0":
-  "integrity" "sha512-4oL8ivCz5ZEPyclFQXaNksK3adutVS8l2xzZU0cqEFrE9Sb7fC0EFK5uEk74wIreL1DERyjvsU915j1pcT2uEQ=="
-  "resolved" "https://registry.npmjs.org/react/-/react-18.1.0.tgz"
-  "version" "18.1.0"
+"react@^17.0.2 || ^18.0.0-0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@18.2.0-next-e531a4a62-20220505":
+  "integrity" "sha512-Kg5EIR3ZO6KEctwIT0zqJ5czlvrVoThm9CrPUC2VaDHrZ0S/I8OXSbNjE/8UHJhLRYs7wo7stwCAjWhT7FgP+A=="
+  "resolved" "https://registry.npmjs.org/react/-/react-18.2.0-next-e531a4a62-20220505.tgz"
+  "version" "18.2.0-next-e531a4a62-20220505"
   dependencies:
     "loose-envify" "^1.1.0"
 
@@ -1390,10 +1390,10 @@
   dependencies:
     "queue-microtask" "^1.2.2"
 
-"scheduler@^0.22.0":
-  "integrity" "sha512-6QAm1BgQI88NPYymgGQLCZgvep4FyePDWFpXVK+zNSUgHwlqpJy8VEh8Et0KxTACS4VWwMousBElAZOH9nkkoQ=="
-  "resolved" "https://registry.npmjs.org/scheduler/-/scheduler-0.22.0.tgz"
-  "version" "0.22.0"
+"scheduler@0.23.0-next-e531a4a62-20220505":
+  "integrity" "sha512-sfMsfhR1NP1g20byrJ01tsW3AG5fF9EA2CKl5nP1SwyypDpezlOT50Al5JFsbHg5znjfoB7nWF6klMbUjTvTAA=="
+  "resolved" "https://registry.npmjs.org/scheduler/-/scheduler-0.23.0-next-e531a4a62-20220505.tgz"
+  "version" "0.23.0-next-e531a4a62-20220505"
   dependencies:
     "loose-envify" "^1.1.0"
 
