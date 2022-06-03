@@ -34,16 +34,16 @@ export default function Home() {
         <p className={styles.subtitle}>
         -- Maximizing quality of life through ecological care, self development and <b>regenerative technologies</b>. A possible solution to a core problem in the human experience: <i>loneliness and belonging</i>.
         </p>
-
-        <div class="parallax-wrapper">
-            <div class="content">
+        <body>
+        <div className="parallax-wrapper">
+            <div className="content">
                 <p> <h1>what we stand for</h1></p>
                 <p>
-                What does it mean to “fit together?” Maybe, to have everything in its place. A natural order. An order in which there is no strain of mind, of energy, thought. An order which comes naturally, from a state of freedom. 
+                What does it mean to fit together? Maybe, to have everything in its place. A natural order. An order in which there is no strain of mind, of energy, thought. An order which comes naturally, from a state of freedom. 
 
-Freedom, however, is not simply “doing what one wants when one wants”. When free to act impulsively or from a state of one’s primal instincts, one realizes that some of the choices we make don’t always come from a place of individual true choice, or are not in our best common interest.Our primitive and selfish behavior as a species continue to confound a lack of meaning and systemic inequalities with our most crucial and pressing crisis: climate change.- We endlessly seek material/superficial answers to existential questions, perpetuating deception, hypocrisy, and disappointment.. Freedom therefore comes with great responsibility. 
+Freedom, however, is not simply doing what one wants when one wants. When free to act impulsively or from a state of ones primal instincts, one realizes that some of the choices we make dont always come from a place of individual true choice, or are not in our best common interest.Our primitive and selfish behavior as a species continue to confound a lack of meaning and systemic inequalities with our most crucial and pressing crisis: climate change.- We endlessly seek material/superficial answers to existential questions, perpetuating deception, hypocrisy, and disappointment.. Freedom therefore comes with great responsibility. 
 
-As technology races ahead of our own collective psychological evolution, a positive way forward is to ensure we are redefining our meaning to life. Decentralized cities allow young people to migrate toward rural areas and engage with projects they care about–to improve the world and have a stable yet transient (agrotourism) community they can relate to. Many people don't want to be tied to one location anymore. The meaning of "ownership" and value of material possessions is changing. So is the way we value ourselves. We're leaving the reductionist capitalist model for one where everyone has an opportunity to live up to their potential if given compassion, resources and the exposure needed to blossom.If given compassion, exposure, and most importantly the resources. 
+As technology races ahead of our own collective psychological evolution, a positive way forward is to ensure we are redefining our meaning to life. Decentralized cities allow young people to migrate toward rural areas and engage with projects they care about to improve the world and have a stable yet transient (agrotourism) community they can relate to. Many people dont want to be tied to one location anymore. The meaning of ownership and value of material possessions is changing. So is the way we value ourselves. We are leaving the reductionist capitalist model for one where everyone has an opportunity to live up to their potential if given compassion, resources and the exposure needed to blossom.If given compassion, exposure, and most importantly the resources. 
 
 We are not idealists. This is just the next phase of human evolution: a life beyond the me.
 
@@ -59,17 +59,17 @@ It is now clear:
 -	the globalized society humankind has created is unequivocally fragile<br></br>
 -	society must redefine its values to for a sustainable maximization of living quality
 -	remote work has become a norm
--	mankind’s interaction with the natural world must drastically change and include indigenous wisdom<br></br>
+-	mankinds interaction with the natural world must drastically change and include indigenous wisdom<br></br>
 -  humans need to exercise their fulfillment in a new way of living that will consist of mostly leisure without following into destructive vices
                 </p>
             </div>
         </div>
-        <div class="regular-wrapper">
-            <div class="content">
+        <div className="regular-wrapper">
+            <div className="content">
                 <p><h1> The Blueprint </h1></p>
             </div>
         </div>
-      
+        </body>
 
       </main>
 
